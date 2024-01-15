@@ -1,4 +1,4 @@
-{
+[{
    "id":3,
    "preco":"",
    "bateria":"",
@@ -6,3 +6,4 @@
    "potencia":"",
    "urlFoto":""
 }
+]
